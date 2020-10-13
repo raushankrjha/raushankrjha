@@ -3,14 +3,11 @@
 <a href="https://twitter.com/dev_raushanjha">
   <img align="left" alt="Raushan Jha| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/raushankrjha">
+<a href="https://www.linkedin.com/in/raushankrjha">
   <img align="left" alt="Raushan  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/raushankrjha/">
   <img align="left" alt="Raushan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Raushan Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 
