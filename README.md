@@ -1,7 +1,4 @@
 # [Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Raushan Jha](http://raushanjha.in/)
-
-<a href="https://twitter.com/dev_raushanjha"><img height="30" src="https://img.shields.io/github/followers/{raushankrjha}.svg?style=social&label=Follow&maxAge=2592000" /></a><br/>
-
 <a href="https://github.com/raushankrjha"><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&slogoColor=white" /></a>
 <a href="https://stackoverflow.com/users/8170956/raushan-jha"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://raushankrjha.medium.com/">
