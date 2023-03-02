@@ -19,14 +19,13 @@
 <img alt="Raushan Jha" src="https://github.com/raushankrjha/raushankrjha/blob/master/cover.png?raw=true"  />
 <br />
 
-Hi, I'm [Raushan Jha](https://raushanjha.in/), an Android & iOS App Developer 🚀 from India, currently, I'm a Team Lead - Mobile App Development - Android & iOS at  🙍🏽‍♂️ [@ThinkAILabs](https://thinkailabs.com/).
+Hi, I'm [Raushan Jha](https://raushanjha.in/).
 
   <img align="right" alt="GIF" src="https://github.com/raushankrjha/raushankrjha/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Backend Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@raushanjha](https://raushanjha.in/);
 - 📝[Portfolio](https://raushanjha.in/)
